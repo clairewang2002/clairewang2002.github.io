@@ -1,2 +1,2 @@
-# clairewang2002.github.io
+# elsolorana.github.io
 Repository for projects and personal website
